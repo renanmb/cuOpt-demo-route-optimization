@@ -1,0 +1,4 @@
+address,lat,lng,delivery_start,delivery_end,service_time,order_ID,order_wt,order_type
+"4801 S Cooper St, Arlington",32.6687293,-97.1318344,2022-03-17T08:00:00,2022-03-17T23:59:59,0,1000,0,DEPOT
+"6401 NE Loop 820, North Richland Hills",32.8426368,-97.2465756,2022-03-17T08:00:00,2022-03-17T23:59:59,0,1000,0,DEPOT
+"1225 TX-276, Rockwall",32.908041,-96.4456817,2022-03-17T08:00:00,2022-03-17T23:59:59,0,1000,0,DEPOT
